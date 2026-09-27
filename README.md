@@ -1,6 +1,6 @@
 # 🎃 Welcome to **HacktoberFest Contribution **! 🎃  
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2026-yellow?style=for-the-badge)](https://hacktoberfest.com)  
-[![Star this Repo](https://img.shields.io/github/stars/Evgenii-Bazhaov/Hacktoberfest2024-25?style=social)](https://github.com/Evgenii-Bazhaov/Hacktoberfest2024-25)
+[![Star this Repo](https://img.shields.io/github/stars/Evgenii-Bazhaov/Hacktoberfest2024-25?style=social)](https://github.com/Evgenii-Bazhaov/Hacktoberfest2025-26)
 
 Hey there, awesome people! 👋 Welcome to **HacktoberFest **! 🚀 This is a fun and beginner-friendly repository designed for you to make your very first Pull Request (PR) and join the world of open source! 🌍✨ 
 <div align = "left">
@@ -63,13 +63,13 @@ Hey there, awesome people! 👋 Welcome to **HacktoberFest **! 🚀 This is a fu
 - Clone it on your local machine
 
 ```terminal
-git clone https://github.com/Evgenii-Bazhaov/Hacktoberfest2024-25.git
+git clone https://github.com/Evgenii-Bazhaov/Hacktoberfest2025-26.git
 ```
 
 - Navigate to the project directory.
 
 ```terminal
-cd Hacktoberfest2024-25
+cd Hacktoberfest2025-26
 ```
 
 - Create a new branch
@@ -105,7 +105,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PRs may be merged while you're working on your branch/fork.   
 
 ```terminal
-git remote add upstream https://github.com/Evgenii-Bazhaov/Hacktoberfest2024-25
+git remote add upstream https://github.com/Evgenii-Bazhaov/Hacktoberfest2025-26
 ```
 
 You can verify that the new remote has been added by typing:
@@ -131,36 +131,6 @@ After 4 successfully merged PRs, you’ll be eligible for a Hacktoberfest T-shir
 <p><img src="https://miro.medium.com/max/1050/1*4JctIO7irt8hFxBmTvUpiQ.jpeg" width="400" height="225" alt="t-shirt image"></p> <p><img src="https://miro.medium.com/max/1050/1*jkffr74bq5RsQ_xqDhgqYQ.jpeg" width="400" height="225" alt="stickers image"></p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-
-
-# BONUS🔥
-### * Checkout this & authenticate there to start contributing: ➡️ [DevFestAi](https://devfest.ai/) -->
-
-
-<li><B><p><img src="https://devfest.ai/svgs/Swag.svg" width="700" height="300" alt="t-shirt image"></a></p></p>
-</b></li>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-# FAQs (Frequently Asked Questions)
-
-- Who all can contribute?
-  - Anyone with a GitHub account and who is signed up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
-- Are you getting paid for this?
-  - Sadly, no. But we think we should. This is 100% unofficial, and we do it for fun, fame, and glory.
-- Who are you, and why are you doing this?
-  - We are  programmers from India, We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
-- Why are you not using DigitalOcean?
-  - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
-- Should I come closer to the text saying 'Don't come closer' on the left side of the home tab?
-  - Nope.
-- How many pull requests (PRs) must be made if I want to get an awesome T-shirt from Hacktoberfest 2024-25?
-
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2024-25?
-  - [Go to:](https://hacktoberfest.digitalocean.com/profile/). (Check out your own stats at the top right)
-- What is the duration of Hacktoberfest 2024-25?
-  - It is from 1st October to 31st October 2024-25.
-- What is the event for?
-  - For open source community engagement and to learn how to contribute to open source.
 
 ###### *We will do our best to merge as much as possible from everyone. However, time is limited, and the merge conflicts are horrible :astonished: <3*
 <br>
