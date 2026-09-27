@@ -1,5 +1,5 @@
 # 🎃 Welcome to **HacktoberFest Contribution **! 🎃  
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-yellow?style=for-the-badge)](https://hacktoberfest.com)  
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2026-yellow?style=for-the-badge)](https://hacktoberfest.com)  
 [![Star this Repo](https://img.shields.io/github/stars/Evgenii-Bazhaov/Hacktoberfest2024-25?style=social)](https://github.com/Evgenii-Bazhaov/Hacktoberfest2024-25)
 
 Hey there, awesome people! 👋 Welcome to **HacktoberFest **! 🚀 This is a fun and beginner-friendly repository designed for you to make your very first Pull Request (PR) and join the world of open source! 🌍✨ 
